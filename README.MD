@@ -1,8 +1,6 @@
 # Tutorials
 
-[C++ course](https://github.com/Yulai202020/cpp_course)
-
-[C++ course part2 (OOP)](https://github.com/Yulai202020/cpp_course_v2)
+[C++ course (with OOP)](https://github.com/Yulai202020/cpp_course)
 
 [Signals tutorial (with python)](https://github.com/Yulai202020/singals)
 
