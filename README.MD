@@ -10,6 +10,8 @@
 
 [Calendar](https://github.com/Yulai202020/calendar_cpp)
 
+[Quiz](https://github.com/Yulai202020/quiz_cpp)
+
 # Games
 
 [Simple quiz game on time](https://github.com/Yulai202020/bomb-defuse)
