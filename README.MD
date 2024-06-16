@@ -16,6 +16,8 @@
 
 [Quiz](https://github.com/Yulai202020/quiz_cpp)
 
+[IPcalc](https://github.com/Yulai202020/ipcalc_cpp)
+
 # Games
 
 [Simple quiz game on time](https://github.com/Yulai202020/bomb-defuse)
