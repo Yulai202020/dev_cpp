@@ -1,11 +1,9 @@
 # Tutorials
-
 [C++ course (with OOP)](https://github.com/Yulai202020/cpp_course)
 
 [Signals tutorial (with python)](https://github.com/Yulai202020/singals)
 
 # Programs
-
 [dns](https://github.com/Yulai202020/dns_cpp_example)
 
 [sqlite utils](https://github.com/Yulai202020/sqlite_example_cpp)
@@ -18,8 +16,11 @@
 
 [IPcalc](https://github.com/Yulai202020/ipcalc_cpp)
 
-# Games
+[my yes (on c too)](https://github.com/Yulai202020/yes_c)
 
+[my cat (on c too)](https://github.com/Yulai202020/cat_c)
+
+# Games
 [Simple quiz game on time](https://github.com/Yulai202020/bomb-defuse)
 
 [French roulette](https://github.com/Yulai202020/french_roulette)
