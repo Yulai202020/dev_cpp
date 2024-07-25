@@ -4,11 +4,13 @@
 [Signals tutorial (with python)](https://github.com/Yulai202020/singals)
 
 # Programs
+[YAPM package manager](https://github.com/Yulai202020/yapm_cpp)
+
 [dns](https://github.com/Yulai202020/dns_cpp_example)
 
 [sqlite utils](https://github.com/Yulai202020/sqlite_example_cpp)
 
-[Calculator](https://github.com/Yulai202020/calculator_cpp)
+[Calculator on c++ (on c too)](https://github.com/Yulai202020/calculator_cpp)
 
 [Calendar](https://github.com/Yulai202020/calendar_cpp)
 
